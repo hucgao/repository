@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "caf"]
+	url = git://codeaurora.org/tools/repo
+	review = codeaurora.org
+	projectname = tools/repo
+	fetch = +refs/heads/*:refs/heads/*
